@@ -1,6 +1,18 @@
 # Immutable Dot
 
-Simple helper for using dot notation with Immutable.js. Turning `state.getIn(['path', 'to', 'value'])` into `state.getIn(dot('path.to.value')`.
+Simple helper for using dot notation with Immutable.js. 
+
+Turning
+
+```javascript
+state.getIn(['path', 'to', 'value'])
+```
+
+into
+
+```javascript
+state.getIn(dot('path.to.value')
+```
 
 Inspired by this [issue comment](https://github.com/facebook/immutable-js/issues/757#issuecomment-210705453).
 
