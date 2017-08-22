@@ -1,6 +1,6 @@
 {
   "name": "immutable-dot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple helper for using dot notation with Immutable.js",
   "main": "index.js",
   "repository": {
