@@ -1,0 +1,19 @@
+{
+  "name": "immutable-dot",
+  "version": "0.0.1",
+  "description": "Simple helper for using dot notation with Immutable.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikhaugboelle/immutable-dot.git"
+  },
+  "keywords": [
+    "immutable",
+    "dot-notation"
+  ],
+  "author": "Henrik Haugbølle <henrikhaugboelle@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/henrikhaugboelle/immutable-dot/issues"
+  },
+  "homepage": "https://github.com/henrikhaugboelle/immutable-dot#readme"
+}
